@@ -18,11 +18,15 @@ These files can then be accessed in the respective folders in the server's stora
 
 #Group members :
 
-Kemoy fowler      ID: 1708143
-O'Neil Dixon      ID: 1506467
-Rohan Stern       ID: 1604789
-Shereece Myers    ID: 1704745 
-Tasi-Anna Mighty  ID: 1704280
+Kemoy fowler      ID: 1708143,
+
+O'Neil Dixon      ID: 1506467,
+
+Rohan Stern       ID: 1604789,
+
+Shereece Myers    ID: 1704745,
+
+Tasi-Anna Mighty  ID: 1704280,
 
 
 
